@@ -1,0 +1,500 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1416,
+      "max": [
+        14.528077125549316,
+        14.130228042602539,
+        54.399856567382812
+      ],
+      "min": [
+        -14.528076171875,
+        -14.130228042602539,
+        -1.422523021697998
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 16992,
+      "componentType": 5126,
+      "count": 1416,
+      "max": [
+        0.98167747259140015,
+        0.99841099977493286,
+        0.95081174373626709
+      ],
+      "min": [
+        -0.9981156587600708,
+        -0.99819010496139526,
+        -0.97487324476242065
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1416,
+      "max": [
+        0.9991689920425415,
+        0.86882519721984863,
+        0.99986779689788818,
+        1
+      ],
+      "min": [
+        -0.99694788455963135,
+        -0.97460395097732544,
+        -0.99531340599060059,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1416,
+      "max": [
+        0.99226999282836914,
+        0.99821001291275024
+      ],
+      "min": [
+        0.004290000069886446,
+        0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 1416,
+      "max": [
+        1415
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 33984,
+      "componentType": 5126,
+      "count": 1416,
+      "max": [
+        16.259366989135742,
+        17.390279769897461,
+        64.024017333984375
+      ],
+      "min": [
+        -16.259366989135742,
+        -17.390281677246094,
+        -5.2644166946411133
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 50976,
+      "componentType": 5126,
+      "count": 1416,
+      "max": [
+        0.99780631065368652,
+        0.9932515025138855,
+        0.98555874824523926
+      ],
+      "min": [
+        -0.99498307704925537,
+        -0.99760264158248901,
+        -0.98929727077484131
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 22656,
+      "componentType": 5126,
+      "count": 1416,
+      "max": [
+        0.86609238386154175,
+        0.98796862363815308,
+        0.99982917308807373,
+        1
+      ],
+      "min": [
+        -0.95455336570739746,
+        -0.99912339448928833,
+        -0.9987255334854126,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 11328,
+      "componentType": 5126,
+      "count": 1416,
+      "max": [
+        0.99226999282836914,
+        0.99821001291275024
+      ],
+      "min": [
+        0.004290000069886446,
+        0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 5664,
+      "componentType": 5125,
+      "count": 1416,
+      "max": [
+        1415
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "3DBakery (https://sketchfab.com/StefanTagl)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/models/87843ab5bf744fc7b1274007393340ce",
+      "title": "mushrooms"
+    },
+    "generator": "Sketchfab-3.19.7",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 11328,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 22656,
+      "byteOffset": 11328,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 67968,
+      "byteOffset": 33984,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 45312,
+      "byteOffset": 101952,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 147264,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "images": [
+    {
+      "uri": "textures/MAT_2_diffuse.png"
+    },
+    {
+      "uri": "textures/MAT_2_specularGlossiness.png"
+    },
+    {
+      "uri": "textures/MAT_2_normal.png"
+    },
+    {
+      "uri": "textures/MAT_1_diffuse.png"
+    },
+    {
+      "uri": "textures/MAT_1_specularGlossiness.png"
+    },
+    {
+      "uri": "textures/MAT_1_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": {
+            "index": 3,
+            "texCoord": 0
+          },
+          "glossinessFactor": 1,
+          "specularFactor": [
+            0.23999999999999999,
+            0.23999999999999999,
+            0.23999999999999999
+          ],
+          "specularGlossinessTexture": {
+            "index": 4,
+            "texCoord": 0
+          }
+        }
+      },
+      "name": "MAT_1",
+      "normalTexture": {
+        "index": 5,
+        "scale": 1,
+        "texCoord": 0
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": {
+            "index": 0,
+            "texCoord": 0
+          },
+          "glossinessFactor": 1,
+          "specularFactor": [
+            0.2395198171,
+            0.2395198171,
+            0.2395198171
+          ],
+          "specularGlossinessTexture": {
+            "index": 1,
+            "texCoord": 0
+          }
+        }
+      },
+      "name": "MAT_2",
+      "normalTexture": {
+        "index": 2,
+        "scale": 1,
+        "texCoord": 0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Mushroom_1_MAT_1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Mushroom_2_MAT_2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "106d996a819a4b8db580b935d2040f0a.fbx"
+    },
+    {
+      "children": [
+        4,
+        6
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        2.2204460492503131e-16,
+        -1,
+        0,
+        0,
+        1,
+        2.2204460492503131e-16,
+        0,
+        -16.176242828369141,
+        0,
+        0,
+        1
+      ],
+      "name": "Mushroom_1"
+    },
+    {
+      "mesh": 0,
+      "name": "Mushroom_1_MAT_1_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        2.2204460492503131e-16,
+        -1,
+        0,
+        0,
+        1,
+        2.2204460492503131e-16,
+        0,
+        22.396083831787109,
+        0,
+        0,
+        1
+      ],
+      "name": "Mushroom_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Mushroom_2_MAT_2_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    }
+  ]
+}
+
